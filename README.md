@@ -42,7 +42,7 @@ rainfall and temperature. Additionally, line charts were employed to illustrate 
 temporal changes in temperature and rainfall, helping to highlight seasonal patterns and
 year-over-year trends.
 
-### Key Areas to Address:
+### Key Areas to Address
 1. Rainfall and Temperature Trends:
 - How do rainfall and temperature vary by year or by region?
 - Are there any significant seasonal trends or anomalies?
@@ -114,7 +114,7 @@ temperature (TMIN) and rainfall.
 ### Limitations
 There is missing data and limited geographic coverage.
 
-### Recommendations for Future Research:
+### Recommendations for Future Research
 - Enhance Data Granularity: Given the correlations and trends observed in the dataset (e.g.,
 TMAX, TMIN, Rainfall, Sunlight), it’s important to increase the frequency of data collection for
 more accurate short-term forecasts. This could involve incorporating daily or even hourly data
